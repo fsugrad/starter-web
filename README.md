@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work and it is sooo much fun!
+This repository is for showing how Git and GitHub work and it is sooo much fun. Adding
+a line for rebasing example, then more changes from myfeature branch too. 
 
 ## Introduction
 
